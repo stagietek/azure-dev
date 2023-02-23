@@ -20,7 +20,7 @@ require (
 	github.com/theckman/yacspin v0.13.12
 	go.uber.org/multierr v1.8.0
 	golang.org/x/exp v0.0.0-20220428152302-39d4317da171
-	golang.org/x/sys v0.0.0-20211205182925-97ca703d548d
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
 	gopkg.in/yaml.v3 v3.0.0
 )
 
@@ -35,5 +35,5 @@ require (
 	github.com/rivo/uniseg v0.2.0 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
 	golang.org/x/term v0.0.0-20210503060354-a79de5458b56 // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/text v0.3.8 // indirect
 )
